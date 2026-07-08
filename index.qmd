@@ -68,7 +68,7 @@ Le circuit attendu est le suivant :
 4. une réponse est transmise à la personne demandeuse
 5. en cas d’accord, les informations administratives nécessaires sont transmises à Madame Eva Lamouri
 
-Une fois la demande acceptée, les informations suivantes devront être transmises par email à Madame Eva Lamouri (eva.lamouri@inserm.fr):
+Une fois la demande acceptée, les informations suivantes devront être transmises par email à Madame Eva Lamouri ([eva.lamouri@inserm.fr](mailto:eva.lamouri@inserm.fr)):
 
 - nom
 - prénom
