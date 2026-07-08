@@ -1,5 +1,5 @@
 ---
-title: "Axe 1"
+title: "Psychiatrie du Développement et Trajectoires - Axe 1"
 subtitle: "Caractérisation phénotypique, épidémiologie, trajectoires développementales et déterminants bio-psycho-sociaux des troubles mentaux"
 format:
   html:
@@ -10,7 +10,6 @@ format:
 lang: fr
 ---
 
-## Équipe Psychiatrie du Développement et Trajectoires
 
 Cette page présente les informations relatives à l’organisation de l’Axe 1 de l’équipe *Psychiatrie du Développement et Trajectoires* du CESP.
 
