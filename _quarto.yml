@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Axe 1 – PsyDev"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    lang: fr
+    page-layout: full
