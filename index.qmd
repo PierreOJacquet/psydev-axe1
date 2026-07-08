@@ -1,6 +1,6 @@
 ---
-title: "Axe 1 - Caractérisation phénotypique, épidémiologie, trajectoires développementales et déterminants bio-psycho-sociaux des troubles mentaux"
-subtitle: "web page"
+title: "Axe 1"
+subtitle: "Caractérisation phénotypique, épidémiologie, trajectoires développementales et déterminants bio-psycho-sociaux des troubles mentaux"
 format:
   html:
     toc: true
@@ -12,11 +12,9 @@ lang: fr
 
 ## Équipe Psychiatrie du Développement et Trajectoires
 
-Cette page présente les informations relatives à l’organisation de l’Axe 1 de l’équipe *Psychiatrie du Développement et Trajectoires* du CESP. 
+Cette page présente les informations relatives à l’organisation de l’Axe 1 de l’équipe *Psychiatrie du Développement et Trajectoires* du CESP.
 
-Elle a vocation à devenir progressivement un espace de communication plus complet, où seront présentés les événements ponctuant la vie de l'Axe 1 pour l'année à venir, et que vous pourrez consulter à tout moment.
-
-Dans sa forme provisoire, cette page rappelle les modalités d’examen des demandes de financement adressées sur le budget collectif de l’Axe, les canaux de communication à utiliser, ainsi que les principales informations relatives à l’animation scientifique de l’Axe.
+Elle rappelle les modalités d’examen des demandes de financement adressées sur le budget collectif de l’Axe, les canaux de communication à utiliser, ainsi que les principales informations relatives à l’animation scientifique de l’Axe.
 
 ## Co-responsabilité de l’Axe 1
 
@@ -37,11 +35,11 @@ Le formulaire doit être complété pour chaque demande d’aide financière, pu
 
 Les demandes sont examinées collectivement par les co-responsables, au regard notamment :
 
-- de leur adéquation avec les thématiques scientifiques de l’Axe 1 
-- de leur intérêt scientifique ou pédagogique 
-- du statut de la personne demandeuse, avec une attention particulière portée aux demandes formulées par les étudiantes, étudiants et doctorant·es de l’équipe 
-- du montant demandé 
-- des disponibilités budgétaires
+- de leur adéquation avec les thématiques scientifiques de l’Axe 1 ;
+- de leur intérêt scientifique ou pédagogique ;
+- du statut de la personne demandeuse, avec une attention particulière portée aux demandes formulées par les étudiantes, étudiants et doctorant·es de l’équipe ;
+- du montant demandé ;
+- des disponibilités budgétaires.
 
 ## Formulaire de demande
 
@@ -49,11 +47,11 @@ Le formulaire de demande de financement permet de recueillir les informations n�
 
 Il prévoit notamment les rubriques suivantes :
 
-- informations personnelles 
-- type de demande 
-- politique d’examen des demandes 
-- décision des co-responsables 
-- informations à transmettre à la gestionnaire une fois la demande acceptée
+- informations personnelles ;
+- type de demande ;
+- politique d’examen des demandes ;
+- décision des co-responsables ;
+- informations à transmettre à la gestionnaire une fois la demande acceptée.
 
 [ Télécharger le formulaire de demande de financement ](files/formulaire_demande_financement_axe1.docx)
 
@@ -63,22 +61,22 @@ Afin d’éviter les circuits parallèles et de faciliter le suivi des demandes,
 
 Le circuit attendu est le suivant :
 
-1. la personne demandeuse complète le formulaire 
-2. la demande est adressée aux co-responsables de l’Axe 1 
-3. les co-responsables examinent collectivement la demande 
-4. une réponse est transmise à la personne demandeuse 
-5. en cas d’accord, les informations administratives nécessaires sont transmises à Madame Eva Lamouri
+1. la personne demandeuse complète le formulaire ;
+2. la demande est adressée aux co-responsables de l’Axe 1 ;
+3. les co-responsables examinent collectivement la demande ;
+4. une réponse est transmise à la personne demandeuse ;
+5. en cas d’accord, les informations administratives nécessaires sont transmises à Madame Eva Lamouri.
 
 Une fois la demande acceptée, les informations suivantes devront être transmises par email à Madame Eva Lamouri :
 
-- nom 
-- prénom 
-- équipe ou axe de rattachement 
-- adresse e-mail 
-- type de demande 
-- date de la demande 
-- budget sur lequel prendre la mission : Axe 1 
-- nom des responsables de l’Axe 1 ayant donné l’accord
+- nom ;
+- prénom ;
+- équipe ou axe de rattachement ;
+- adresse e-mail ;
+- type de demande ;
+- date de la demande ;
+- budget sur lequel prendre la mission : Axe 1 ;
+- nom des responsables de l’Axe 1 ayant donné l’accord.
 
 ## Informations pratiques
 
