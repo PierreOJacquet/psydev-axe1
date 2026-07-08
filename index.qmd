@@ -13,16 +13,18 @@ lang: fr
 
 Cette page présente les informations relatives à l’organisation de l’Axe 1 de l’équipe *Psychiatrie du Développement et Trajectoires* du CESP.
 
-Elle rappelle les modalités d’examen des demandes de financement adressées sur le budget collectif de l’Axe, les canaux de communication à utiliser, ainsi que les principales informations relatives à l’animation scientifique de l’Axe.
+Elle aura vocation à devenir progressivement un espace de communication plus complet, où seront présentés les événements ponctuant la vie de l'Axe 1 pour l'année à venir, et que vous pourrez consulter à tout moment.
+
+Dans sa version provisoire, cette page rappelle les modalités d’examen des demandes de financement adressées sur le budget collectif de l’Axe, les canaux de communication à utiliser, ainsi que les principales informations relatives à l’animation scientifique de l’Axe.
 
 ## Co-responsabilité de l’Axe 1
 
 L’Axe 1 est placé sous la co-responsabilité de :
 
-- Stéphanie Bourion-Bédès
-- Nour Ibrahim
-- Pierre Jacquet
-- Florence Labrell
+- Stéphanie Bourion-Bédès ([stephanie.bourion-bedes@uvsq.fr](mailto:stephanie.bourion-bedes@uvsq.fr))
+- Nour Ibrahim ([nour.ibrahim@aphp.fr](mailto:nour.ibrahim@aphp.fr))
+- Pierre Jacquet ([pierre.ol.jacquet@gmail.com](mailto:pierre.ol.jacquet@gmail.com))
+- Florence Labrell ([florence.labrell@gmail.com](mailto:florence.labrell@gmail.com))
 
 Les co-responsables assurent collectivement l’animation scientifique de l’Axe, le suivi des demandes qui lui sont adressées, ainsi que l’arbitrage des financements pouvant relever de son budget collectif.
 
@@ -34,11 +36,11 @@ Le formulaire doit être complété pour chaque demande d’aide financière, pu
 
 Les demandes sont examinées collectivement par les co-responsables, au regard notamment :
 
-- de leur adéquation avec les thématiques scientifiques de l’Axe 1 ;
-- de leur intérêt scientifique ou pédagogique ;
-- du statut de la personne demandeuse, avec une attention particulière portée aux demandes formulées par les étudiantes, étudiants et doctorant·es de l’équipe ;
-- du montant demandé ;
-- des disponibilités budgétaires.
+- de leur adéquation avec les thématiques scientifiques de l’Axe 1
+- de leur intérêt scientifique ou pédagogique
+- du statut de la personne demandeuse, avec une attention particulière portée aux demandes formulées par les étudiantes, étudiants et doctorant·es de l’équipe
+- du montant demandé
+- des disponibilités budgétaires
 
 ## Formulaire de demande
 
@@ -46,10 +48,10 @@ Le formulaire de demande de financement permet de recueillir les informations n�
 
 Il prévoit notamment les rubriques suivantes :
 
-- informations personnelles ;
-- type de demande ;
-- politique d’examen des demandes ;
-- décision des co-responsables ;
+- informations personnelles
+- type de demande
+- politique d’examen des demandes
+- décision des co-responsables
 - informations à transmettre à la gestionnaire une fois la demande acceptée.
 
 [ Télécharger le formulaire de demande de financement ](files/formulaire_demande_financement_axe1.docx)
@@ -60,22 +62,22 @@ Afin d’éviter les circuits parallèles et de faciliter le suivi des demandes,
 
 Le circuit attendu est le suivant :
 
-1. la personne demandeuse complète le formulaire ;
-2. la demande est adressée aux co-responsables de l’Axe 1 ;
-3. les co-responsables examinent collectivement la demande ;
-4. une réponse est transmise à la personne demandeuse ;
-5. en cas d’accord, les informations administratives nécessaires sont transmises à Madame Eva Lamouri.
+1. la personne demandeuse complète le formulaire
+2. la demande est adressée aux co-responsables de l’Axe 1
+3. les co-responsables examinent collectivement la demande
+4. une réponse est transmise à la personne demandeuse
+5. en cas d’accord, les informations administratives nécessaires sont transmises à Madame Eva Lamouri
 
-Une fois la demande acceptée, les informations suivantes devront être transmises par email à Madame Eva Lamouri :
+Une fois la demande acceptée, les informations suivantes devront être transmises par email à Madame Eva Lamouri (eva.lamouri@inserm.fr):
 
-- nom ;
-- prénom ;
-- équipe ou axe de rattachement ;
-- adresse e-mail ;
-- type de demande ;
-- date de la demande ;
-- budget sur lequel prendre la mission : Axe 1 ;
-- nom des responsables de l’Axe 1 ayant donné l’accord.
+- nom
+- prénom
+- équipe ou axe de rattachement
+- adresse e-mail
+- type de demande
+- date de la demande
+- budget sur lequel prendre la mission : Axe 1
+- nom des responsables de l’Axe 1 ayant donné l’accord
 
 ## Informations pratiques
 
@@ -93,17 +95,17 @@ Les *PsyDev MeetUp* donnent l’occasion aux chercheuses, chercheurs, étudiante
 
 Ils reprendront dès la rentrée de septembre et auront lieu une fois par semaine :
 
-- **jour** : vendredi ;
-- **horaire** : 13h-14h ;
-- **fréquence** : hebdomadaire.
+- **jour** : vendredi
+- **horaire** : 13h-14h
+- **fréquence** : hebdomadaire
 
 ### Atelier méthodes mixtes
 
 Un atelier consacré aux méthodes mixtes sera organisé :
 
-- **date** : lundi 7 décembre 2026 ;
-- **horaire** : 14h-17h ;
-- **lieu** : à déterminer.
+- **date** : lundi 7 décembre 2026
+- **horaire** : 14h-17h
+- **lieu** : à déterminer
 
 ## Soutenances de thèse et HDR
 
